@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Jeong-gi Kwak"
   avatar           : "profile.png"
-  bio              : "PhD student @ Korea University"
+  bio              : "PhD student \n @ Korea University"
   location         : "Seoul, Korea"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ&hl=ko"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
