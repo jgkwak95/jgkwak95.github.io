@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About
-I am a PhD student at Dept. of Electrical Engineering, Korea University, Korea, supervised by Prof. Hanseok Ko. My reseach interests include Computer Vision and Graphics, specifically, Image-to-Image translation and 3D-aware Image/Video Synthesis. I received the B.S and M.S degrees in School of Electrical Engineering at Korea University, Seoul, Korea, in 2018 and 2020, respectively.
+I am a PhD student at Dept. of Electrical Engineering, Korea University, Seoul, Korea, supervised by Prof. Hanseok Ko. My reseach interests include Computer Vision and Graphics, specifically, Image-to-Image translation and 3D-aware Image/Video Synthesis. I received the B.S and M.S degrees in School of Electrical Engineering at Korea University, Seoul, Korea, in 2018 and 2020, respectively.
 
 
 
