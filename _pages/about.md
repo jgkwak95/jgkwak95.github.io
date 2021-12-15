@@ -16,7 +16,7 @@ I am a PhD student at Dept. of Electrical Engineering, Korea University, Seoul, 
 Research
 ======
 
-<figure style="width: 512px"> <img src="{{ site.url }}{{ site.baseurl }}/images/augan.png" alt=""> </figure>| Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN<br/>**Jeong-gi Kwak**, Youngsaeng Jin, Yuanming Li, Dongsik Yoon, Donghyeon Kim, Hanseok Ko<br/>*British Machine Vision Conference (BMVC), 2021*
+<figure style="width: 512px"> <img src="{{ site.url }}{{ site.baseurl }}/images/augan.png"> </figure>| Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN<br/>**Jeong-gi Kwak**, Youngsaeng Jin, Yuanming Li, Dongsik Yoon, Donghyeon Kim, Hanseok Ko<br/>*British Machine Vision Conference (BMVC), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1443.pdf)]  [[code](https://github.com/jgkwak95/AU-GAN)]
 <br/>
 <br/>
