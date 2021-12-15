@@ -20,12 +20,12 @@ Research
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1443.pdf)]  [[code](https://github.com/jgkwak95/AU-GAN)]
 <br/>
 
-<figure style="width: 512px"> <img src="{{ site.url }}{{ site.baseurl }}/images/augan.png" alt=""> </figure>| Reference Guided Image Inpainting
+<figure style="width: 512px"> <img src="{{ site.url }}{{ site.baseurl }}/images/yoon.png" alt=""> </figure>| Reference Guided Image Inpainting
 using Facial Attributes<br/>Dongsik Yoon, **Jeong-gi Kwak**,  Yuanming Li, David Han, Youngsaeng Jin, Hanseok Ko<br/>*British Machine Vision Conference (BMVC), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1267.pdf)]
 <br/>
 
-<figure style="width: 512px"> <img src="{{ site.url }}{{ site.baseurl }}/images/augan.png" alt=""> </figure>| Adaptive Content Feature Enhancement
+<figure style="width: 512px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Li.png" alt=""> </figure>| Adaptive Content Feature Enhancement
 GAN for Multimodal Selfie to Anime Translation<br/>Yuanming Li, Youngsaeng Jin, **Jeong-gi Kwak**, Dongsik Yoon, David Han, Hanseok Ko<br/>*British Machine Vision Conference (BMVC), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1231.pdf)]
 <br/>
