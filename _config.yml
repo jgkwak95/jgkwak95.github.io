@@ -86,7 +86,7 @@ author:
   location         : "Seoul, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ&hl=ko"
+  googlescholar    : "https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ"
   email            : #"kjk8557@korea.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #""
+  linkedin         : "https://www.linkedin.com/in/jeong-gi-kwak-743668203/"
   orcid            : 
   pinterest        :
   soundcloud       :
