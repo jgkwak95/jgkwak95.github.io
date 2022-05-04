@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About
-I am a PhD student at Dept. of Electrical Engineering, Korea University, Seoul, Korea, supervised by Prof. Hanseok Ko. My reseach interests include Computer Vision and Graphics, specifically, Image-to-Image translation and 3D-aware Image/Video Synthesis. I received the B.S and M.S degrees in School of Electrical Engineering at Korea University, Seoul, Korea, in 2018 and 2020, respectively.
+I am a PhD student at Dept. of Electrical Engineering, Korea University, Seoul, Korea, supervised by Prof. Hanseok Ko. My reseach interests include Computer Vision and Graphics, specifically, Image-to-Image translation, 3D-aware Image/Video Synthesis, and 3D reconstruction from 2D. I received the B.S and M.S degrees in School of Electrical Engineering at Korea University, Seoul, Korea, in 2018 and 2020, respectively.
 
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak_21_12_16.pdf)]
 
@@ -17,7 +17,10 @@ I am a PhD student at Dept. of Electrical Engineering, Korea University, Seoul, 
 
 Research
 ======
-
+<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>|Generate and Edit Your Own Character in a Canonical View<br/>**Jeong-gi Kwak**, Yuanming Li, Dongsik Yoon, David Han, Hanseok Ko<br/>*IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (*CVPRW*) , 2022*
+<br/>[[paper]()]  
+<br/>
+<br/>
 <figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/augan.png" alt=""> </figure>| Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN<br/>**Jeong-gi Kwak**, Youngsaeng Jin, Yuanming Li, Dongsik Yoon, Donghyeon Kim, Hanseok Ko<br/>*British Machine Vision Conference (BMVC), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1443.pdf)]  [[code](https://github.com/jgkwak95/AU-GAN)]
 <br/>
