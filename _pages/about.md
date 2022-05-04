@@ -26,7 +26,7 @@ Research
 <br/>
 <br/>
 <figure style="width: 480px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/yoon.png" alt=""> </figure>| Reference Guided Image Inpainting
-using Facial Attributes<br/>Dongsik Yoon, **Jeong-gi Kwak**,  Yuanming Li, David Han, Youngsaeng Jin, Hanseok Ko<br/>*British Machine Vision Conference (***BMVC***), 2021*
+using Facial Attributes<br/>Dongsik Yoon, **Jeong-gi Kwak**,  Yuanming Li, David Han, Youngsaeng Jin, Hanseok Ko<br/>*British Machine Vision Conference (**BMVC**), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1267.pdf)]
 <br/>
 <br/>
