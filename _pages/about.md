@@ -17,7 +17,7 @@ I am a PhD student at Dept. of Electrical Engineering, Korea University, Seoul, 
 
 Research
 ======
-<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>|Generate and Edit Your Own Character in a Canonical View<br/>**Jeong-gi Kwak**, Yuanming Li, Dongsik Yoon, David Han, Hanseok Ko<br/>*IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (*CVPRW*) , 2022*
+<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>| Generate and Edit Your Own Character in a Canonical View<br/>**Jeong-gi Kwak**, Yuanming Li, Dongsik Yoon, David Han, Hanseok Ko<br/>*IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**) , 2022*
 <br/>[[paper]()]  
 <br/>
 <br/>
@@ -26,15 +26,15 @@ Research
 <br/>
 <br/>
 <figure style="width: 480px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/yoon.png" alt=""> </figure>| Reference Guided Image Inpainting
-using Facial Attributes<br/>Dongsik Yoon, **Jeong-gi Kwak**,  Yuanming Li, David Han, Youngsaeng Jin, Hanseok Ko<br/>*British Machine Vision Conference (BMVC), 2021*
+using Facial Attributes<br/>Dongsik Yoon, **Jeong-gi Kwak**,  Yuanming Li, David Han, Youngsaeng Jin, Hanseok Ko<br/>*British Machine Vision Conference (***BMVC***), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1267.pdf)]
 <br/>
 <br/>
 <figure style="width: 480px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Li.png" alt=""> </figure>| Adaptive Content Feature Enhancement
-GAN for Multimodal Selfie to Anime Translation<br/>Yuanming Li, Youngsaeng Jin, **Jeong-gi Kwak**, Dongsik Yoon, David Han, Hanseok Ko<br/>*British Machine Vision Conference (BMVC), 2021*
+GAN for Multimodal Selfie to Anime Translation<br/>Yuanming Li, Youngsaeng Jin, **Jeong-gi Kwak**, Dongsik Yoon, David Han, Hanseok Ko<br/>*British Machine Vision Conference (**BMVC**), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1231.pdf)]
 <br/>
 <br/>
-<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cafe_gan.png" alt=""> </figure> | CAFE-GAN: Arbitrary Face Attribute Editing with Complementary Attention Feature<br/>**Jeong-gi Kwak**, David K. Han, Hanseok Ko<br/>*European Conference on Computer Vision (ECCV), 2020*
+<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cafe_gan.png" alt=""> </figure> | CAFE-GAN: Arbitrary Face Attribute Editing with Complementary Attention Feature<br/>**Jeong-gi Kwak**, David K. Han, Hanseok Ko<br/>*European Conference on Computer Vision (**ECCV**), 2020*
 <br/>[[paper](https://arxiv.org/pdf/2011.11900.pdf)] 
 
