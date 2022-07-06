@@ -17,15 +17,15 @@ I am a PhD student at Dept. of Electrical Engineering, Korea University, Seoul, 
 
 Research
 ======
-<figure style="width: 620px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/eccv2022_thumb.png" alt=""> </figure>| Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis<br/>**Jeong-gi Kwak**, Yuanming Li, Dongsik Yoon,  Donghyeon Kim, David Han, Hanseok Ko<br/>*European Conference on Computer Vision (**ECCV**) , 2022*
+<figure style="width: 620px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/eccv2022_thumb.png" alt=""> </figure>| Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis<br/>**Jeong-gi Kwak**, Yuanming Li, Dongsik Yoon,  Donghyeon Kim, David Han, Hanseok Ko<br/>*<span style="color: #808080">European Conference on Computer Vision </span> (**ECCV**), 2022*
 <br/>[[paper]()]  
 <br/>
 <br/>
-<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/difai_thumb.png" alt=""> </figure>| DIFAI: Diverse Facial Inpainting using StyleGAN Inversion<br/>Dongsik Yoon, **Jeong-gi Kwak**,  Yuanming Li, David Han, Hanseok Ko<br/>*IEEE International Conference on Image Processing (**ICIP**) , 2022*
+<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/difai_thumb.png" alt=""> </figure>| DIFAI: Diverse Facial Inpainting using StyleGAN Inversion<br/>Dongsik Yoon, **Jeong-gi Kwak**,  Yuanming Li, David Han, Hanseok Ko<br/>*IEEE International Conference on Image Processing (**ICIP**), 2022*
 <br/>[[paper]()]  
 <br/>
 <br/>
-<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>| Generate and Edit Your Own Character in a Canonical View<br/>**Jeong-gi Kwak**, Yuanming Li, Dongsik Yoon, David Han, Hanseok Ko<br/>*IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**) , 2022*
+<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>| Generate and Edit Your Own Character in a Canonical View<br/>**Jeong-gi Kwak**, Yuanming Li, Dongsik Yoon, David Han, Hanseok Ko<br/>*IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**), 2022*
 <br/>[[paper](https://arxiv.org/abs/2205.02974)]  
 <br/>
 <br/>
