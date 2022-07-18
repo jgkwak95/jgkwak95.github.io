@@ -31,7 +31,7 @@ Research
 <figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>| <span style="font-size:110%">Generate and Edit Your Own Character in a Canonical View</span><br/>
 <span style="font-size:90%; color: #808080"><span style="color: black">**Jeong-gi Kwak**</span>, Yuanming Li, Dongsik Yoon, David Han, Hanseok Ko</span><br/>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**), 2022*
-<br/>[[paper](https://arxiv.org/abs/2205.02974)]  
+<br/>[[paper](https://arxiv.org/abs/2205.02974)] [[poster]({{ site.url }}{{ site.baseurl }}/files/cvpr_poster.pdf)]
 <br/>
 <br/>
 <figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/augan.png" alt=""> </figure>| <span style="font-size:110%">Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN</span><br/>
