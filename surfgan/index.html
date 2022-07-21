@@ -128,8 +128,7 @@
         <h2 class="subtitle has-text-centered">
           SURF-GAN can control semantic attributes as well as camera parameters in an  
           unsupervised manner.
-
-          (Trained on 64x64 and rendered at 256x256)
+          <p>(Trained on 64x64 CelebA and rendered at 256x256)</p>
         </h2>
         <video id="teaser" autoplay muted loop playsinline width="85%">
           <source src="./assets/vid/00140.mp4"
@@ -158,7 +157,8 @@ We first introduce a novel  3D-aware GAN, SURF-GAN, which is capable of discover
 After that, we inject the prior of SURF-GAN into StyleGAN to obtain a high-fidelity 3D-controllable generator.
 Unlike existing latent-based methods allowing implicit pose control, the proposed 3D-controllable StyleGAN enables explicit pose control over portrait generation.
 This distillation allows direct compatibility between 3D control and  many StyleGAN-based techniques (e.g., inversion and stylization), and also brings an advantage in terms of computational resources.
-</p></p><b>TL;DR </b>  We present <b>attribute-controllable 3D-aware GAN (SURF-GAN) </b> and <b>3D-controllable StyleGAN</b>.
+</p></p><b>TL;DR </b>  We present a novel 3D-aware GAN, i.e., <b>SURF-GAN</b>, which is able to disentangle and control semantic
+attributes and then <b>make StyleGAN 3D controllable</b> by injecting the prior of SURF-GAN.
           </p>
 
         </div>
@@ -193,9 +193,10 @@ This distillation allows direct compatibility between 3D control and  many Style
     <div class="container is-max-desktop content">
 
     <h2 class="title">3D-controllable StyleGAN</h2>
+    <p>
+      After that, we inject 3D prior from a low-resolution 3D-Aware GAN (SURF-GAN) into a high-resolution 2D GAN (StyleGAN).
+    </p>
     <h4 class="title">Control over pose</h4>
-  
-
     <img src="assets/result1.png"  width="1000" class="center"/>
     <p></p>
     <h4 class="title"> + Stylization</h4>
@@ -248,7 +249,7 @@ This distillation allows direct compatibility between 3D control and  many Style
     <h2 class="subtitle has-text-centered">
       Limitation
    </h2>
-   3D controllable StyleGAN is not based on 3D representations such as mesh or NeRF, so as you can see when it comes to video generation, it shows the problem of “texture sticking”  pointed out in <a href="https://nvlabs.github.io/stylegan3/">StyleGAN3</a> (especially in hair and beard).
+   Our 3D controllable StyleGAN is not based on 3D representations such as mesh or NeRF, so as you can see when it comes to video generation, it shows the problem of “texture sticking”  pointed out in <a href="https://nvlabs.github.io/stylegan3/">StyleGAN3</a> (especially in hair and beard).
    That is one of the most noticable artifacts in GAN generated videos. We expect this to be mitigated with StyleGAN3.
    <video poster="" id="vid6" autoplay controls muted loop width="80%">
     <source src="./assets/vid/00244.mp4", type="video/mp4">
