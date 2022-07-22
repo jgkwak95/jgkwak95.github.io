@@ -20,7 +20,7 @@ Research
 <figure style="width: 620px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/eccv2022_thumb.png" alt=""> </figure>| <span style="font-size:110%">Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis</span><br/>
 <span style="font-size:90%">**Jeong-gi Kwak**, <span style="color: #808080">Yuanming Li, Dongsik Yoon,  Donghyeon Kim, David Han, Hanseok Ko </span></span><br/>
 *European Conference on Computer Vision (**ECCV**), 2022*
-<br/>[[paper]()]  [[code](https://github.com/jgkwak95/SURF-GAN)]   [[project page](https://jgkwak95.github.io/surfgan/)]  
+<br/>[[paper](http://arxiv.org/abs/2207.10257)]  [[code](https://github.com/jgkwak95/SURF-GAN)]   [[project page](https://jgkwak95.github.io/surfgan/)]  
 <br/>
 <br/>
 <figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/difai_thumb.png" alt=""> </figure>| <span style="font-size:110%">DIFAI: Diverse Facial Inpainting using StyleGAN Inversion</span><br/>
