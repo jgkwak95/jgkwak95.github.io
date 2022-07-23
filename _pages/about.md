@@ -17,42 +17,42 @@ I am a PhD student at Dept. of Electrical Engineering, Korea University, Seoul, 
 
 Research
 ======
-<figure style="width: 80%px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/eccv2022_thumb.png" alt=""> </figure>| <span style="font-size:110%">Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis</span><br/>
+<figure style="width: 60%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/eccv2022_thumb.png" alt=""> </figure>| <span style="font-size:110%">Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis</span><br/>
 <span style="font-size:90%">**Jeong-gi Kwak**, <span style="color: #808080">Yuanming Li, Dongsik Yoon,  Donghyeon Kim, David Han, Hanseok Ko </span></span><br/>
 *European Conference on Computer Vision (**ECCV**), 2022*
 <br/>[[paper](http://arxiv.org/abs/2207.10257)]  [[code](https://github.com/jgkwak95/SURF-GAN)]   [[project page](https://jgkwak95.github.io/surfgan/)]  
 <br/>
 <br/>
-<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/difai_thumb.png" alt=""> </figure>| <span style="font-size:110%">DIFAI: Diverse Facial Inpainting using StyleGAN Inversion</span><br/>
+<figure style="width: 50%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/difai_thumb.png" alt=""> </figure>| <span style="font-size:110%">DIFAI: Diverse Facial Inpainting using StyleGAN Inversion</span><br/>
 <span style="font-size:90%; color: #808080">Dongsik Yoon, <span style="color: black">**Jeong-gi Kwak**</span>,  Yuanming Li, David Han, Hanseok Ko</span><br/>*IEEE International Conference on Image Processing (**ICIP**), 2022*
 <br/>[[paper]()]  
 <br/>
 <br/>
-<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>| <span style="font-size:110%">Generate and Edit Your Own Character in a Canonical View</span><br/>
+<figure style="width: 50%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>| <span style="font-size:110%">Generate and Edit Your Own Character in a Canonical View</span><br/>
 <span style="font-size:90%; color: #808080"><span style="color: black">**Jeong-gi Kwak**</span>, Yuanming Li, Dongsik Yoon, David Han, Hanseok Ko</span><br/>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**), 2022*
 <br/>[[paper](https://arxiv.org/abs/2205.02974)] [[code](https://github.com/jgkwak95/Character-frontalization)]  [[poster]({{ site.url }}{{ site.baseurl }}/files/cvpr_poster.pdf)]
 <br/>
 <br/>
-<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/augan.png" alt=""> </figure>| <span style="font-size:110%">Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN</span><br/>
+<figure style="width: 50%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/augan.png" alt=""> </figure>| <span style="font-size:110%">Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN</span><br/>
 <span style="font-size:90%; color: #808080"><span style="color: black">**Jeong-gi Kwak**</span>, Youngsaeng Jin, Yuanming Li, Dongsik Yoon, Donghyeon Kim, Hanseok Ko</span><br/>
 *British Machine Vision Conference (**BMVC**), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1443.pdf)]  [[code](https://github.com/jgkwak95/AU-GAN)]
 <br/>
 <br/>
-<figure style="width: 480px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/yoon.png" alt=""> </figure>| <span style="font-size:110%">Reference Guided Image Inpainting using Facial Attributes</span><br/>
+<figure style="width: 45%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/yoon.png" alt=""> </figure>| <span style="font-size:110%">Reference Guided Image Inpainting using Facial Attributes</span><br/>
 <span style="font-size:90%; color: #808080">Dongsik Yoon, <span style="color: black">**Jeong-gi Kwak**</span>,  Yuanming Li, David Han, Youngsaeng Jin, Hanseok Ko</span><br/>
 *British Machine Vision Conference (**BMVC**), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1267.pdf)]
 <br/>
 <br/>
-<figure style="width: 480px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Li.png" alt=""> </figure>| <span style="font-size:110%">Adaptive Content Feature Enhancement GAN for Multimodal Selfie to Anime Translation</span><br/>
+<figure style="width: 45%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Li.png" alt=""> </figure>| <span style="font-size:110%">Adaptive Content Feature Enhancement GAN for Multimodal Selfie to Anime Translation</span><br/>
 <span style="font-size:90%; color: #808080">Yuanming Li, Youngsaeng Jin, <span style="color: black">**Jeong-gi Kwak**</span>, Dongsik Yoon, David Han, Hanseok Ko</span><br/>
 *British Machine Vision Conference (**BMVC**), 2021*
 <br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1231.pdf)]
 <br/>
 <br/>
-<figure style="width: 512px;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cafe_gan.png" alt=""> </figure> | <span style="font-size:110%">CAFE-GAN: Arbitrary Face Attribute Editing with Complementary Attention Feature</span><br/>
+<figure style="width: 50%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cafe_gan.png" alt=""> </figure> | <span style="font-size:110%">CAFE-GAN: Arbitrary Face Attribute Editing with Complementary Attention Feature</span><br/>
 <span style="font-size:90%; color: #808080"><span style="color: black">**Jeong-gi Kwak**</span>, David K. Han, Hanseok Ko</span><br/>
 *European Conference on Computer Vision (**ECCV**), 2020*
 <br/>[[paper](https://arxiv.org/pdf/2011.11900.pdf)] 
