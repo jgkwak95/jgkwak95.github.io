@@ -236,29 +236,34 @@ attributes and then <b>make StyleGAN 3D controllable</b> by injecting the prior 
   <div class="container is-max-desktop content">
     <div class="hero-body">
       
-      
+      <div>
       <h2 class="title"> Video generation</h2>
       <p>
       <h3 class="subtitle has-text-centered"></p>
         Our model can process portrait images with arbitrary poses.
      </h3>
-      <div>
+     
       <img src="assets/text.png"  width="65%" class="center"/>
 
-
-      <!-- <div class="content has-text-centered">
-        <video id="replay-video"
-               controls
-               muted
-               preload
-               playsinline
-               width="75%">
-          <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid1.mp4"
+      <video id="vid1" autoplay controls muted loop playsinline width="80%">
+        <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid1.mp4"
+                type="video/mp4">
+      </video>
+        <video id="vid2" autoplay controls muted loop playsinline width="80%">
+          <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid2.mp4"
                   type="video/mp4">
         </video>
-      </div> -->
+        <video id="vid3" autoplay controls muted loop playsinline width="80%">
+          <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid3.mp4"
+                  type="video/mp4">
+        </video>
+        <video id="vid4" autoplay controls muted loop playsinline width="80%">
+          <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid4.mp4"
+                  type="video/mp4">
+        </video>
+     
 
-      <video poster="" id="vid1" autoplay controls muted loop width="80%">
+      <!-- <video poster="" id="vid1" autoplay controls muted loop width="80%">
         <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid1.mp4",  type="video/mp4">
       </video>   
       <video poster="" id="vid2" autoplay controls muted loop width="80%">
@@ -270,7 +275,7 @@ attributes and then <b>make StyleGAN 3D controllable</b> by injecting the prior 
       <video poster="" id="vid4" autoplay controls muted loop width="80%">
         <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid4.mp4", type="video/mp4">
       </video>
-
+ -->
 
 
 
@@ -279,11 +284,13 @@ attributes and then <b>make StyleGAN 3D controllable</b> by injecting the prior 
       </h3>
     </div>
     
-    <video poster="" id="vid5" autoplay controls muted loop width="100%">
-      <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid5.mp4", type="video/mp4">
+    <video id="vid5" autoplay controls muted loop playsinline width="100%">
+      <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid5.mp4"
+              type="video/mp4">
     </video>
-    <video poster="" id="vid6" autoplay controls muted loop width="100%">
-      <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid6.mp4", type="video/mp4">
+    <video id="vid6" autoplay controls muted loop playsinline width="100%">
+      <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid6.mp4"
+              type="video/mp4">
     </video>
 
     <h2 class="subtitle has-text-centered">
@@ -291,11 +298,13 @@ attributes and then <b>make StyleGAN 3D controllable</b> by injecting the prior 
    </h2>
    Our 3D controllable StyleGAN is not based on 3D representations such as mesh or NeRF, so as you can see when it comes to video generation, it shows the problem of “texture sticking”  pointed out in <a href="https://nvlabs.github.io/stylegan3/">StyleGAN3</a> (especially in hair and beard).
    That is one of the most noticable artifacts in GAN generated videos. We expect this to be mitigated with StyleGAN3.
-   <video poster="" id="vid6" autoplay controls muted loop width="80%">
-    <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid7.mp4", type="video/mp4">
+   <video id="vid7" autoplay controls muted loop playsinline width="70%">
+    <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid7.mp4"
+            type="video/mp4">
   </video>
-  <video poster="" id="vid7" autoplay controls muted loop width="80%">
-    <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid8.mp4", type="video/mp4">
+  <video id="vid8" autoplay controls muted loop playsinline width="70%">
+    <source src="https://jgkwak95.github.io/surfgan/assets/vid/vid8.mp4"
+            type="video/mp4">
   </video>
     
   </div>
