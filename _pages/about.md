@@ -11,7 +11,7 @@ redirect_from:
 ### About
 I am a PhD student at Dept. of Electrical Engineering, Korea University. My reseach interests include computer vision and graphics, specifically, 3D-aware image/video synthesis, digital human, neural rendering, 3D reconstruction from 2D, and image transaltion. I also received the B.S and M.S degrees in School of Electrical Engineering at Korea University in 2018 and 2020, respectively.
 
-[[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak_22_09_25.pdf)]
+[[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]
 
 
 
