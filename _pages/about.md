@@ -23,6 +23,7 @@ Research
 <br/>[[paper](http://arxiv.org/abs/2207.10257)]  [[code](https://github.com/jgkwak95/SURF-GAN)]   [[project page](https://jgkwak95.github.io/surfgan/)]  
 <span style="font-size:90%">**(2022.12) 2022 ETNews ICT Paper Award sponsered by MSIT Korea** </span>
 <br/>
+<br/>
 <figure style="width: 60%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/difai_thumb.png" alt=""> </figure>| <span style="font-size:110%">DIFAI: Diverse Facial Inpainting using StyleGAN Inversion</span><br/>
 <span style="font-size:90%; color: #808080">Dongsik Yoon, <span style="color: black">**Jeong-gi Kwak**</span>,  Yuanming Li, David Han, Hanseok Ko</span><br/>*IEEE International Conference on Image Processing (**ICIP**), 2022*
 <br/>[[paper]()]  
@@ -31,7 +32,7 @@ Research
 <figure style="width: 70%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>| <span style="font-size:110%">Generate and Edit Your Own Character in a Canonical View</span><br/>
 <span style="font-size:90%; color: #808080"><span style="color: black">**Jeong-gi Kwak**</span>, Yuanming Li, Dongsik Yoon, David Han, Hanseok Ko</span><br/>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**), 2022*
-<br/>[[paper](https://arxiv.org/abs/2205.02974)] [[code](https://github.com/jgkwak95/Character-frontalization)]  [[poster]({{ site.url }}{{ site.baseurl }}/files/cvpr_poster.pdf)]
+<br/>[[paper](https://arxiv.org/abs/2205.02974)][[poster]({{ site.url }}{{ site.baseurl }}/files/cvpr_poster.pdf)]
 <br/>
 <br/>
 <figure style="width: 70%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/augan.png" alt=""> </figure>| <span style="font-size:110%">Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN</span><br/>
@@ -43,7 +44,7 @@ Research
 <figure style="width: 60%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/yoon.png" alt=""> </figure>| <span style="font-size:110%">Reference Guided Image Inpainting using Facial Attributes</span><br/>
 <span style="font-size:90%; color: #808080">Dongsik Yoon, <span style="color: black">**Jeong-gi Kwak**</span>,  Yuanming Li, David Han, Youngsaeng Jin, Hanseok Ko</span><br/>
 *British Machine Vision Conference (**BMVC**), 2021*
-<br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1267.pdf)]
+<br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1267.pdf)][[code](https://github.com/Stillrot/RGINP)]
 <br/>
 <br/>
 <figure style="width: 70%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cafe_gan.png" alt=""> </figure> | <span style="font-size:110%">CAFE-GAN: Arbitrary Face Attribute Editing with Complementary Attention Feature</span><br/>
