@@ -44,7 +44,7 @@ Research
 <figure style="width: 60%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/yoon.png" alt=""> </figure>| <span style="font-size:110%">Reference Guided Image Inpainting using Facial Attributes</span><br/>
 <span style="font-size:90%; color: #808080">Dongsik Yoon, <span style="color: black">**Jeong-gi Kwak**</span>,  Yuanming Li, David Han, Youngsaeng Jin, Hanseok Ko</span><br/>
 *British Machine Vision Conference (**BMVC**), 2021*
-<br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1267.pdf)][[code](https://github.com/Stillrot/RGINP)]
+<br/>[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1267.pdf)] [[code](https://github.com/Stillrot/RGINP)]
 <br/>
 <br/>
 <figure style="width: 70%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cafe_gan.png" alt=""> </figure> | <span style="font-size:110%">CAFE-GAN: Arbitrary Face Attribute Editing with Complementary Attention Feature</span><br/>
