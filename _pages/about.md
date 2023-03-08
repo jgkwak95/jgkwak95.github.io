@@ -26,7 +26,7 @@ Research
 <br/>
 <figure style="width: 60%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/difai_thumb.png" alt=""> </figure>| <span style="font-size:110%">DIFAI: Diverse Facial Inpainting using StyleGAN Inversion</span><br/>
 <span style="font-size:90%; color: #808080">Dongsik Yoon, <span style="color: black">**Jeong-gi Kwak**</span>,  Yuanming Li, David Han, Hanseok Ko</span><br/>*IEEE International Conference on Image Processing (**ICIP**), 2022*
-<br/>[[paper]()]  
+<br/>[[paper](https://ieeexplore.ieee.org/document/9898012)]  
 <br/>
 <br/>
 <figure style="width: 70%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/cvprw_thumb.png" alt=""> </figure>| <span style="font-size:110%">Generate and Edit Your Own Character in a Canonical View</span><br/>
