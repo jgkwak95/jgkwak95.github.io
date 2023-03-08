@@ -22,6 +22,7 @@ Research
 *European Conference on Computer Vision (**ECCV**), 2022*
 <br/>[[paper](http://arxiv.org/abs/2207.10257)]  [[code](https://github.com/jgkwak95/SURF-GAN)]   [[project page](https://jgkwak95.github.io/surfgan/)]  
 <br/>
+<span style="font-size:90%"> (2022.12) 2022 ETNews ICT Paper Award sponsered by MSIT Korea </span>
 <br/>
 <figure style="width: 60%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/difai_thumb.png" alt=""> </figure>| <span style="font-size:110%">DIFAI: Diverse Facial Inpainting using StyleGAN Inversion</span><br/>
 <span style="font-size:90%; color: #808080">Dongsik Yoon, <span style="color: black">**Jeong-gi Kwak**</span>,  Yuanming Li, David Han, Hanseok Ko</span><br/>*IEEE International Conference on Image Processing (**ICIP**), 2022*
