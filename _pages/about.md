@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About
-I am a PhD student at Dept. of Electrical Engineering, Korea University. My reseach interests include computer vision and graphics, specifically, 3D-aware image/video synthesis, digital human, neural rendering, 3D reconstruction from 2D, and image transaltion. I also received the B.S and M.S degrees in School of Electrical Engineering at Korea University in 2018 and 2020, respectively.
+I am a PhD student at Dept. of Electrical Engineering, Korea University. My research interests include computer vision and graphics, specifically, 3D-aware image/video synthesis, digital human, neural rendering, 3D reconstruction from 2D, and image transaltion. I also received the B.S and M.S degrees in School of Electrical Engineering at Korea University in 2018 and 2020, respectively.
 
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]
 
@@ -21,7 +21,7 @@ Research
 <span style="font-size:90%">**Jeong-gi Kwak**, <span style="color: #808080">Yuanming Li, Dongsik Yoon,  Donghyeon Kim, David Han, Hanseok Ko </span></span><br/>
 *European Conference on Computer Vision (**ECCV**), 2022*
 <br/>[[paper](http://arxiv.org/abs/2207.10257)]  [[code](https://github.com/jgkwak95/SURF-GAN)]   [[project page](https://jgkwak95.github.io/surfgan/)]  
-<span style="font-size:90%">**(2022.12) Outstanding Paper Award, 2022 ETNews ICT Paper Awards sponsored by MSIT Korea** </span>
+<span style="font-size:90%">**(2022.12) 2022 ETNews ICT Paper Awards sponsored by MSIT Korea** </span>
 <br/>
 <br/>
 <figure style="width: 60%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/difai_thumb.png" alt=""> </figure>| <span style="font-size:110%">DIFAI: Diverse Facial Inpainting using StyleGAN Inversion</span><br/>
