@@ -15,7 +15,7 @@ I am a PhD student at Dept. of Electrical Engineering, Korea University. My rese
 
 
 
-Research
+Selected Publications
 ======
 <figure style="width: 80%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/eccv2022_thumb.png" alt=""> </figure>| <span style="font-size:110%">Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis</span><br/>
 <span style="font-size:90%">**Jeong-gi Kwak**, <span style="color: #808080">Yuanming Li, Dongsik Yoon,  Donghyeon Kim, David Han, Hanseok Ko </span></span><br/>
