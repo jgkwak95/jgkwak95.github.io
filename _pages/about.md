@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-##### (News) I will join the Computer Vision Lab at University of British Columbia (UBC) as Visiting Student Researcher under the supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/), focusing on 3D Neural Representation and 3D-aware Generative Models. (Jun.2023 - Nov.2023)
+##### (News) I will join the Computer Vision Lab at University of British Columbia (UBC) as Visiting Student Researcher under the supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/), focusing on 3D Neural Representation and 3D-aware Generative Models. (Jun. 2023 - Nov. 2023)
 
 
 
