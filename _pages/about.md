@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<figure style="width: 50%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/jgkwak2.jpg" alt=""> </figure>| <span style="font-size:110%">Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis</span><br/>
+<span style="font-size:130%">Jeong-gi Kwak</span>
+<figure style="width: 50%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/jgkwak2.jpg" alt=""> </figure>| <br/>
 ### About
 *I am a PhD student at Dept. of Electrical Engineering, Korea University under the supervision of Prof. Hanseok Ko. My research interests include Computer Vision and Graphics, specifically, 3D-aware Generative Models, Digital Human, Neural Rendering, 3D Reconstruction, Image Transaltion and Multi-modal Learning. I also received the B.S and M.S degrees in School of Electrical Engineering at Korea University in 2018 and 2020, respectively.*
 
