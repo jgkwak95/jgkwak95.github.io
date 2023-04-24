@@ -9,7 +9,7 @@ redirect_from:
 ---
 <figure style="width: 50%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/jgkwak2.jpg" alt=""> </figure>
 ### About
-*I am a PhD student at Dept. of Electrical Engineering, Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Computer Vision and Graphics, specifically, 3D-aware Generative Models, Digital Human, Neural Rendering, 3D Reconstruction, Image Transaltion and Multi-modal Learning. I also received the B.S and M.S degrees in School of Electrical Engineering at Korea University in 2018 and 2020, respectively.*
+*I am a PhD student at Dept. of Electrical Engineering, Korea University, under the supervision of Prof. Hanseok Ko. My research interests include 3D-aware Generation, Neural Rendering, AR/VR, Neural Fields, Generative Models and Multi-modal Learning. I also received the B.S and M.S degrees in School of Electrical Engineering at Korea University in 2018 and 2020, respectively.*
 
 ***New)*** *I will join Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/)'s Research Group at Dept. of Computer Science, The University of British Columbia (UBC) as a Visiting Student Researcher, focusing on 3D Neural Representation and 3D-aware Generative Models. (Jun. 2023 - Nov. 2023)*
 
