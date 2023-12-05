@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<figure style="width: 50%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/jgkwak2.jpg" alt=""> </figure>
+<figure style="width: 50%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/jg.jpg" alt=""> </figure>
 ### About
 *I am a final year PhD student at Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*
 
@@ -21,6 +21,13 @@ redirect_from:
 
 Selected Publications
 ======
+<figure style="width: 80%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/vivid_homepage.png" alt=""> </figure>| <span style="font-size:110%">ViVid-1-to-3:
+Novel View Synthesis with Video Diffusion Models</span><br/>
+<span style="font-size:90%">**Jeong-gi Kwak \* ** , <span style="color: #808080">Erqun Dong \*, Yuhe Jin,  Hanseok Ko, Shweta Mahajan, Kwang Moo Yi </span></span><br/>
+*Arxiv, 2023*
+<br/>[[paper](http://arxiv.org/abs/2312.01305)]  [[project page](https://jgkwak95.github.io/ViVid-1-to-3/)]  
+<br/>
+<br/>
 <figure style="width: 80%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/eccv2022_thumb.png" alt=""> </figure>| <span style="font-size:110%">Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis</span><br/>
 <span style="font-size:90%">**Jeong-gi Kwak**, <span style="color: #808080">Yuanming Li, Dongsik Yoon,  Donghyeon Kim, David Han, Hanseok Ko </span></span><br/>
 *European Conference on Computer Vision (**ECCV**), 2022*
