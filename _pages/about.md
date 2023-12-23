@@ -11,11 +11,19 @@ redirect_from:
 ### About
 *I am a final year PhD student at Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*
 
-*Currently I'm in Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/)'s Research Group at Dept. of Computer Science, The University of British Columbia (UBC) as a Visiting Student Researcher, focusing on 3D Neural Representation and 3D-aware Generative Models. (Jun. 2023 - Nov. 2023)*
+*I had a wonderful time in beautiful Vancouver as a visiting research student, under supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia (UBC), focusing on 3D-aware diffusion models (Jun. 2023 - Nov. 2023)*
 
 <br>
 
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]
+
+<br>
+### News 
+<br>
+- (Dec. 2023) One paper was accepted to ICASSP 2024. <br>
+- (Dec. 2023) I successfully defended my thesis. <br>
+- (Dec. 2023) [Our paper](https://arxiv.org/abs/2312.01305) about novel-view synthesis with video diffusion is now available on arxiv.  
+
 
 <br>
 
