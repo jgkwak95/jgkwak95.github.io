@@ -11,12 +11,13 @@ redirect_from:
 ### About
 *I am a final year PhD student at Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*
 
-*I had a wonderful time in beautiful Vancouver as a visiting research student, under supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia (UBC), focusing on 3D-aware diffusion models (Jun. 2023 - Nov. 2023)*
+*I had a wonderful time in beautiful Vancouver as a visiting research student, under supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia (UBC), focusing on novel-view diffusion models and video diffusion models (Jun. 2023 - Nov. 2023)*
 
 
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]
 
 ### News 
+- (Jan. 2024) I've joined [Innververz AI](https://innerverz.io/) as Research Scientist, focusing on video diffusion models. 
 - (Dec. 2023) One paper was accepted to ICASSP 2024. 
 - (Dec. 2023) I successfully defended my thesis. 
 - (Dec. 2023) [Our paper](https://arxiv.org/abs/2312.01305) about novel-view synthesis with video diffusion is now available on arxiv.  
@@ -33,7 +34,7 @@ Novel View Synthesis with Video Diffusion Models</span><br/>
 <br/>
 <!-- <figure style="width: 80%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/vivid_homepage.png" alt=""> </figure>| <span style="font-size:110%">ViVid-1-to-3: -->
 | Towards Multi-domain Face Landmark Detection with Synthetic data from Diffusion model</span><br/>
-<span style="color: #808080">Yuanming Li, Gwantae Kim,  <span style="font-size:90%">**Jeong-gi Kwak**</span>, Bonhwa Ku, Hanseok Ko</span><br/>
+<span style="font-size:90%; color: #808080">Yuanming Li, Gwantae Kim, , <span style="color: black">**Jeong-gi Kwak**</span>, Bonhwa Ku, Hanseok Ko</span><br/>
 *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024*
 <!-- <br/>[[paper](http://arxiv.org/abs/2312.01305)]  [[project page](https://jgkwak95.github.io/ViVid-1-to-3/)]   -->
 <br/>
