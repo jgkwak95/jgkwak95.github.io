@@ -17,7 +17,7 @@ redirect_from:
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]
 
 ### News 
-- (Jan. 2024) I've joined [Innververz AI](https://innerverz.io/) as Research Scientist, focusing on video diffusion models. 
+- (Jan. 2024) I will Innververz AI as Research Scientist, focusing on video diffusion models. 
 - (Dec. 2023) One paper was accepted to ICASSP 2024. 
 - (Dec. 2023) I successfully defended my thesis. 
 - (Dec. 2023) [Our paper](https://arxiv.org/abs/2312.01305) about novel-view synthesis with video diffusion is now available on arxiv.  
@@ -33,7 +33,7 @@ Novel View Synthesis with Video Diffusion Models</span><br/>
 <br/>
 <br/>
 <!-- <figure style="width: 80%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/vivid_homepage.png" alt=""> </figure>| <span style="font-size:110%">ViVid-1-to-3: -->
-| Towards Multi-domain Face Landmark Detection with Synthetic data from Diffusion model</span><br/>
+| <span style="font-size:110%">Towards Multi-domain Face Landmark Detection with Synthetic data from Diffusion model</span><br/>
 <span style="font-size:90%; color: #808080">Yuanming Li, Gwantae Kim, , <span style="color: black">**Jeong-gi Kwak**</span>, Bonhwa Ku, Hanseok Ko</span><br/>
 *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024*
 <!-- <br/>[[paper](http://arxiv.org/abs/2312.01305)]  [[project page](https://jgkwak95.github.io/ViVid-1-to-3/)]   -->
