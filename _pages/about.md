@@ -29,7 +29,7 @@ Selected Publications
 Novel View Synthesis with Video Diffusion Models</span><br/>
 <span style="font-size:90%">**Jeong-gi Kwak \*** , <span style="color: #808080">Erqun Dong \*, Yuhe Jin,  Hanseok Ko, Shweta Mahajan, Kwang Moo Yi </span></span><br/>
 *Arxiv, 2023*
-<br/>[[paper](http://arxiv.org/abs/2312.01305)]  [[project page](https://jgkwak95.github.io/ViVid-1-to-3/)]  
+<br/>[[paper](http://arxiv.org/abs/2312.01305)]  [[code](https://github.com/ubc-vision/vivid123)] [[project page](https://jgkwak95.github.io/ViVid-1-to-3/)]  
 <br/>
 <br/>
 <!-- <figure style="width: 80%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/vivid_homepage.png" alt=""> </figure>| <span style="font-size:110%">ViVid-1-to-3: -->
