@@ -17,7 +17,7 @@ redirect_from:
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]
 
 ### News 
-- (Jan. 2024) I will Innververz AI as Research Scientist, focusing on video diffusion models. 
+- (Jan. 2024) I will join Innververz AI as Research Scientist, focusing on video diffusion models. 
 - (Dec. 2023) One paper was accepted to ICASSP 2024. 
 - (Dec. 2023) I successfully defended my thesis. 
 - (Dec. 2023) [Our paper](https://arxiv.org/abs/2312.01305) about novel-view synthesis with video diffusion is now available on arxiv.  
