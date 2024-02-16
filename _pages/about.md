@@ -17,8 +17,7 @@ redirect_from:
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]
 
 ### News 
-- (Jan. 2024) I will join Innververz AI as Research Scientist, focusing on video diffusion models. 
-- (Dec. 2023) One paper was accepted to ICASSP 2024. 
+- (Jan. 2024) One paper was accepted to ICASSP 2024. 
 - (Dec. 2023) I successfully defended my thesis. 
 - (Dec. 2023) [Our paper](https://arxiv.org/abs/2312.01305) about novel-view synthesis with video diffusion is now available on arxiv.  
 <br>
@@ -31,12 +30,11 @@ Novel View Synthesis with Video Diffusion Models</span><br/>
 *Arxiv, 2023*
 <br/>[[paper](http://arxiv.org/abs/2312.01305)]  [[code](https://github.com/ubc-vision/vivid123)] [[project page](https://jgkwak95.github.io/ViVid-1-to-3/)]  
 <br/>
-<br/>
-<!-- <figure style="width: 80%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/vivid_homepage.png" alt=""> </figure>| <span style="font-size:110%">ViVid-1-to-3: -->
+<figure style="width: 50%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Li_icassp.png" alt=""> </figure>
 | <span style="font-size:110%">Towards Multi-domain Face Landmark Detection with Synthetic data from Diffusion model</span><br/>
 <span style="font-size:90%; color: #808080">Yuanming Li, Gwantae Kim, , <span style="color: black">**Jeong-gi Kwak**</span>, Bonhwa Ku, Hanseok Ko</span><br/>
 *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024*
-<!-- <br/>[[paper](http://arxiv.org/abs/2312.01305)]  [[project page](https://jgkwak95.github.io/ViVid-1-to-3/)]   -->
+<br/>[[paper](https://arxiv.org/abs/2401.13191)]
 <br/>
 <figure style="width: 60%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/eccv2022_thumb.png" alt=""> </figure>| <span style="font-size:110%">Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis</span><br/>
 <span style="font-size:90%">**Jeong-gi Kwak**, <span style="color: #808080">Yuanming Li, Dongsik Yoon,  Donghyeon Kim, David Han, Hanseok Ko </span></span><br/>
