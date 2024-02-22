@@ -18,7 +18,7 @@ redirect_from:
 
 ### News 
 - (Jan. 2024) One paper was accepted to ICASSP 2024. 
-- (Dec. 2023) I successfully defended my thesis, "Toward Controllable and Interpretable Neural Rendering". 
+- (Dec. 2023) I successfully defended my thesis, "Toward Controllable and Interpretable Generative Neural Rendering". 
 - (Dec. 2023) [Our paper](https://arxiv.org/abs/2312.01305) about novel-view synthesis with video diffusion is now available on arxiv.  
 <br>
 
