@@ -17,11 +17,11 @@ redirect_from:
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]
 
 ### News 
-<span style="font-size:0.5em;">
-- **[Feb. 2024]** One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>. <br>
-- **[Jan. 2024]** One paper has been accepted to <a href="https://cvpr.thecvf.com](https://2024.ieeeicassp.org/">ICASSP 2024</a>. <br>
-- **[Dec. 2023]** I successfully defended my thesis, "Toward Controllable and Interpretable Generative Neural Rendering". <br>
-<br> </span>
+
+**[Feb. 2024]** One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>. <br>
+**[Jan. 2024]** One paper has been accepted to <a href="https://cvpr.thecvf.com](https://2024.ieeeicassp.org/">ICASSP 2024</a>. <br>
+**[Dec. 2023]** I successfully defended my thesis, "Toward Controllable and Interpretable Generative Neural Rendering". <br>
+
 
 Selected Publications
 ======
