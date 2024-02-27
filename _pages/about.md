@@ -18,10 +18,10 @@ redirect_from:
 
 ### News 
 
-**[Feb. 2024]** One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>. <br>
+<span style="font-size:50%"> **[Feb. 2024]** One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>. <br>
 **[Jan. 2024]** One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>. <br>
 **[Dec. 2023]** I successfully defended my thesis, "Toward Controllable and Interpretable Generative Neural Rendering". <br>
-
+</span>
 
 Selected Publications
 ======
