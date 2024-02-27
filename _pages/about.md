@@ -9,17 +9,20 @@ redirect_from:
 ---
 <figure style="width: 40%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/jg.jpg" alt=""> </figure>
 ### About
-<span style="font-size:80%">
-*I am a final year PhD student at Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*
+<span style="font-size:90%">  
+*I am a final year PhD student at Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*  
+</span>
 
-*I had a wonderful time in beautiful Vancouver as a visiting research student, under supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia (UBC), focusing on novel-view diffusion models and video diffusion models (Jun. 2023 - Dec. 2023)*
+<span style="font-size:90%">  
+*I had a wonderful time in beautiful Vancouver as a visiting research student, under supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia (UBC), focusing on novel-view diffusion models and video diffusion models (Jun. 2023 - Dec. 2023)*  
+</span>
 
-
+<span style="font-size:90%">  
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]  
 </span>
 
 ### News 
-<span style="font-size:80%">
+<span style="font-size:90%">
 **[Feb. 2024]** One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>.  
 **[Jan. 2024]** One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.  
 **[Dec. 2023]** I successfully defended my thesis, "Toward Controllable and Interpretable Generative Neural Rendering". <br>
