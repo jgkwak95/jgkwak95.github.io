@@ -17,17 +17,18 @@ redirect_from:
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]
 
 ### News 
-- (Jan. 2024) One paper was accepted to ICASSP 2024. 
-- (Dec. 2023) I successfully defended my thesis, "Toward Controllable and Interpretable Generative Neural Rendering". 
-- (Dec. 2023) [Our paper](https://arxiv.org/abs/2312.01305) about novel-view synthesis with video diffusion is now available on arxiv.  
-<br>
+<span style="font-size:0.5em;">
+- **[Feb. 2024]** One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>. <br>
+- **[Jan. 2024]** One paper has been accepted to <a href="https://cvpr.thecvf.com](https://2024.ieeeicassp.org/">ICASSP 2024</a>. <br>
+- **[Dec. 2023]** I successfully defended my thesis, "Toward Controllable and Interpretable Generative Neural Rendering". <br>
+<br> </span>
 
 Selected Publications
 ======
 <figure style="width: 80%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/vivid_homepage.png" alt=""> </figure>| <span style="font-size:110%">ViVid-1-to-3:
 Novel View Synthesis with Video Diffusion Models</span><br/>
 <span style="font-size:90%">**Jeong-gi Kwak \*** , <span style="color: #808080">Erqun Dong \*, Yuhe Jin,  Hanseok Ko, Shweta Mahajan, Kwang Moo Yi </span></span><br/>
-*Arxiv, 2023*
+*CVPR, 2024*
 <br/>[[paper](http://arxiv.org/abs/2312.01305)]  [[code](https://github.com/ubc-vision/vivid123)] [[project page](https://jgkwak95.github.io/ViVid-1-to-3/)]  
 <br/>
 <figure style="width: 50%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Li_icassp.png" alt=""> </figure>
