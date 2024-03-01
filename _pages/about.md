@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<figure style="width: 40%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/jg.jpg" alt=""> </figure>  
-**About**  
+<figure style="width: 50%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt=""> </figure>  
+**About**
 <span style="font-size:90%">  
 *I am a final year PhD student at Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*  
 </span>
