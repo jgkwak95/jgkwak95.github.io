@@ -73,4 +73,4 @@ Novel View Synthesis with Video Diffusion Models</span><br/>
 <span style="font-size:90%; color: #808080"><span style="color: black">**Jeong-gi Kwak**</span>, David K. Han, Hanseok Ko</span><br/>
 *European Conference on Computer Vision (**ECCV**), 2020*
 <br/>[[paper](https://arxiv.org/pdf/2011.11900.pdf)] 
-
+<br>
