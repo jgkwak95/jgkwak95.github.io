@@ -31,7 +31,7 @@ Selected Publications
 <figure style="width: 80%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/vivid_homepage.png" alt=""> </figure>| <span style="font-size:110%">ViVid-1-to-3:
 Novel View Synthesis with Video Diffusion Models</span><br/>
 <span style="font-size:90%">**Jeong-gi Kwak \*** , <span style="color: #808080">Erqun Dong \*, Yuhe Jin,  Hanseok Ko, Shweta Mahajan, Kwang Moo Yi </span></span><br/>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024*<br> <font color="red">Highlight</font>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024*<br><span font style="font-size:80%;color: red"><strong>Highlight</strong></font></span>
 <br/>[[paper](http://arxiv.org/abs/2312.01305)]  [[code](https://github.com/ubc-vision/vivid123)] [[project page](https://jgkwak95.github.io/ViVid-1-to-3/)]  
 <br/>
 <figure style="width: 50%;margin-bottom: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Li_icassp.png" alt=""> </figure>
