@@ -20,6 +20,7 @@ redirect_from:
 </span>
 ### News 
 <span style="font-size:80%">
+**[Apr. 2024] Our <a href="https://arxiv.org/abs/2312.01305">paper</a> has been selected as Highlight at CVPR'24 (11.9%, 324/2719).**  
 **[Feb. 2024] One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>.**  
 **[Jan. 2024] One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.**  
 **[Dec. 2023] I successfully defended my thesis, "Toward Controllable and Interpretable Generative Neural Rendering".** <br>
