@@ -23,7 +23,7 @@ redirect_from:
 **[Apr. 2024] Our <a href="https://arxiv.org/abs/2312.01305">paper</a> has been selected as one of Highlight Papers at CVPR 2024 (Top <4% of all papers).**  
 **[Feb. 2024] One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>.**  
 **[Jan. 2024] One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.**  
-**[Jan. 2024] I joined Innerverz AI as an AI/ML researcher, focusing on video diffusion and personalized diffusion models**  
+**[Jan. 2024] I joined Innerverz AI as an AI/ML researcher, focusing on video diffusion models**  
 **[Dec. 2023] I successfully defended my thesis, "Towards Controllable and Interpretable Generative Neural Rendering".** <br>
 </span>
 
