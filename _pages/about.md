@@ -10,7 +10,7 @@ redirect_from:
 <figure style="width: 50%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt=""> </figure>  
 **About**
 <span style="font-size:90%">  
-*I am a final year PhD student at Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*  
+*I graduated with a PhD from Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*  
 </span>
 <span style="font-size:90%">  
 *I had a wonderful time in beautiful Vancouver as a visiting research student, under supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia (UBC), focusing on diffusion models and 3D neural rendering (Jun. 2023 - Dec. 2023)*  
@@ -20,10 +20,11 @@ redirect_from:
 </span>
 ### News 
 <span style="font-size:80%">
-**[Apr. 2024] Our <a href="https://arxiv.org/abs/2312.01305">paper</a> has been selected as one of Highlight Papers at CVPR 2024 (11.9% of accepted papers).**  
+**[Apr. 2024] Our <a href="https://arxiv.org/abs/2312.01305">paper</a> has been selected as one of Highlight Papers at CVPR 2024 (Top <4% of all papers).**  
 **[Feb. 2024] One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>.**  
 **[Jan. 2024] One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.**  
-**[Dec. 2023] I successfully defended my thesis, "Toward Controllable and Interpretable Generative Neural Rendering".** <br>
+**[Jan. 2024] I joined Innerverz AI as an AI/ML researcher, focusing on video diffusion and personalized diffusion models**  
+**[Dec. 2023] I successfully defended my thesis, "Towards Controllable and Interpretable Generative Neural Rendering".** <br>
 </span>
 
 Selected Publications
