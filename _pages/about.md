@@ -20,6 +20,7 @@ redirect_from:
 </span>
 ### News 
 <span style="font-size:80%">
+**[Jul. 2024] I will be giving a talk at Twelve Labs.
 **[Apr. 2024] Our <a href="https://arxiv.org/abs/2312.01305">paper</a> has been selected as one of <a href="https://public.tableau.com/views/CVPR2024/CVPRtrends?:showVizHome=no">Highlight Papers</a> at CVPR 2024 (Top 10%).**  
 **[Feb. 2024] One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>.**  
 **[Jan. 2024] One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.**  
