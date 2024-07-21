@@ -10,7 +10,7 @@ redirect_from:
 <figure style="width: 50%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt=""> </figure>  
 **About**
 <span style="font-size:90%">  
-*I graduated with a PhD from Korea University, under the supervision of Prof. Hanseok Ko. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*  
+*I'm a research scientist at Innerverz AI, focusing on video diffusion models. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I graduated with a PhD from Korea University, under the supervision of Prof. Hanseok Ko.  I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*  
 </span>
 <span style="font-size:90%">  
 *I had a wonderful time in beautiful Vancouver as a visiting research student, under supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia (UBC), focusing on diffusion models and 3D neural rendering (Jun. 2023 - Dec. 2023)*  
