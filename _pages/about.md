@@ -20,11 +20,11 @@ redirect_from:
 </span>
 ### News 
 <span style="font-size:80%">
-**[Jul. 2024] I will be giving a talk at Twelve Labs.**   
+**[Jul. 2024] I will be giving a talk at <a href="https://www.twelvelabs.io/">Twelve Labs</a>.**   
 **[Apr. 2024] Our <a href="https://arxiv.org/abs/2312.01305">paper</a> has been selected as one of <a href="https://public.tableau.com/views/CVPR2024/CVPRtrends?:showVizHome=no">Highlight Papers</a> at CVPR 2024 (Top 10%).**  
 **[Feb. 2024] One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>.**  
 **[Jan. 2024] One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.**  
-**[Jan. 2024] I joined Innerverz AI as an AI/ML researcher, focusing on video diffusion models**  
+**[Jan. 2024] I joined  <a href="https://innerverz.io/">Innerverz AI</a> as an AI/ML researcher, focusing on video diffusion models**  
 **[Dec. 2023] I successfully defended my thesis, "Towards Controllable and Interpretable Generative Neural Rendering".** <br>
 </span>
 
