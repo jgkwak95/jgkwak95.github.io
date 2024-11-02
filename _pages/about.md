@@ -10,21 +10,20 @@ redirect_from:
 <figure style="width: 50%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt=""> </figure>  
 **About**
 <span style="font-size:90%">  
-*I'm a research scientist at Innerverz AI, focusing on video diffusion models. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I graduated with a PhD from Korea University, under the supervision of Prof. Hanseok Ko.  I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.*  
-</span>
-<span style="font-size:90%">  
-*I had a wonderful time in beautiful Vancouver as a visiting research student, under supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia (UBC), focusing on diffusion models and 3D neural rendering (Jun. 2023 - Dec. 2023)*  
+*I'm a research scientist at Innerverz AI, focusing on video diffusion models. My research interests include Generative Models (e.g., Diffusion models and GANs) and 3D Neural Rendering. I graduated with a PhD from Korea University, under the supervision of Prof. Hanseok Ko.  I also received the B.S and M.S degrees at Korea University in 2018 and 2020, respectively.  
+I had a wonderful time in beautiful Vancouver as a visiting research student, under supervision of Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia (UBC), focusing on diffusion models and 3D neural rendering (Jun. 2023 - Dec. 2023)*  
 </span>
 <span style="font-size:90%">  
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]  
 </span>
 ### News 
 <span style="font-size:80%">
+**[Nov. 2024] I will be giving a talk at <a href="https://compimaging.dgp.toronto.edu/">TCIG</a>, University of Toronto.**       
 **[Jul. 2024] I will be giving a talk at <a href="https://www.twelvelabs.io/">Twelve Labs</a>.**   
 **[Apr. 2024] Our <a href="https://arxiv.org/abs/2312.01305">paper</a> has been selected as one of <a href="https://public.tableau.com/views/CVPR2024/CVPRtrends?:showVizHome=no">Highlight Papers</a> at CVPR 2024 (Top 10%).**  
 **[Feb. 2024] One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>.**  
 **[Jan. 2024] One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.**  
-**[Jan. 2024] I joined  <a href="https://innerverz.io/">Innerverz AI</a> as an AI/ML researcher, focusing on video diffusion models**  
+**[Jan. 2024] I joined  <a href="https://innerverz.io/">Innerverz AI</a> as an AI/ML researcher, focusing on video diffusion models.**  
 **[Dec. 2023] I successfully defended my thesis, "Towards Controllable and Interpretable Generative Neural Rendering".** <br>
 </span>
 
