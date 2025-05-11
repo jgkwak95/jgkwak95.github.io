@@ -17,6 +17,7 @@ redirect_from:
 </span>
 ### News 
 <span style="font-size:80%">      
+**[May 2025] One paper has been accepted to CVPRW 2025</a>.**   
 **[Dec. 2024] I've joined <a href="https://nxn.ai/">NXN Labs</a> as an AI researcher, focusing on visual generative/editing models.**    
 **[Jul. 2024] I will be giving a talk at <a href="https://www.twelvelabs.io/">Twelve Labs</a>.**   
 **[Apr. 2024] Our <a href="https://arxiv.org/abs/2312.01305">paper</a> has been selected as one of <a href="https://public.tableau.com/views/CVPR2024/CVPRtrends?:showVizHome=no">Highlight Papers</a> at CVPR 2024 (Top 10%).**  
