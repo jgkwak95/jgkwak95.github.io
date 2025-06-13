@@ -17,7 +17,7 @@ redirect_from:
 </span>
 ### News 
 <span style="font-size:80%">      
-**[Jun. 2025] I've been recognized as an <a href="https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer">Outstanding Reviewers</a> at CVPR 2025 (711/12,593 reviewers)**   
+**[Jun. 2025] I've been recognized as an <a href="https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer">Outstanding Reviewer</a> at CVPR 2025 (711/12,593 reviewers)**   
 **[May 2025] One paper has been accepted to CVPRW 2025.**   
 **[Dec. 2024] I've joined <a href="https://nxn.ai/">NXN Labs</a> as an AI researcher, focusing on visual generative/editing models.**    
 **[Jul. 2024] I will be giving a talk at <a href="https://www.twelvelabs.io/">Twelve Labs</a>.**   
