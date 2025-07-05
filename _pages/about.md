@@ -7,14 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<figure style="width: 50%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" alt=""> </figure>  
+<figure style="width: 40%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8446.jpg" alt=""> </figure>  
 **About**
 <span style="font-size:90%">  
-*I’m a research scientist at [NXN Labs](https://nxn.ai/), where I develop generative image foundation models and explore scalable architectures and inference strategies for high-fidelity synthesis. In September 2025, I will join the University of British Columbia (UBC) as a postdoctoral fellow, working with Prof. [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) on generative modeling and 3D visual understanding.  
-
-Prior to NXN Labs, I was at Innerverz AI, focusing on video diffusion models. I hold a PhD (as well as a B.S. and M.S.) from Korea University, advised by Prof. Hanseok Ko.  
-
-My long-term goal is to develop intelligent systems that can faithfully represent, reconstruct, and interact with the real world. I’m particularly excited about bridging generative models and 3D vision to build unified systems that integrate perception and generation, paving the way toward general intelligence.*
+*I'm a research scientist at NXN Labs, where I'm developing large-scale generative foundation models for fashion imagery. My research interest lies in image/video generation and 3D computer vision, with the broader goal of modeling and interacting with the visual world. Prior to NXN Labs, I was at Innerverz AI, focusing on video diffusion models. I hold a PhD (as well as a B.S. and M.S.) from Korea University, advised by Prof. Hanseok Ko.*
 </span>
 <span style="font-size:90%">  
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]  
@@ -30,7 +26,7 @@ My long-term goal is to develop intelligent systems that can faithfully represen
 **[Feb. 2024] One paper has been accepted to <a href="https://cvpr.thecvf.com">CVPR 2024</a>.**  
 **[Jan. 2024] One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.**  
 **[Jan. 2024] I've joined  <a href="https://innerverz.io/">Innerverz AI</a> as an AI/ML researcher, focusing on video diffusion models.**  
-**[Dec. 2023] I've successfully defended my thesis, "Towards Controllable and Interpretable Generative Neural Rendering".** <br>
+**[Dec. 2023] I've successfully defended my thesis, "Towards Controllable and Interpretable Generative Neural Rendering".**  
 **[Dec. 2023] I completed a 6-month visit to the University of British Columbia (UBC) as a PhD visiting student, working in the Computer Vision Lab with <a href="https://www.cs.ubc.ca/~kmyi/">Prof. Kwang Moo Yi</a>.**  
 </span>
 
