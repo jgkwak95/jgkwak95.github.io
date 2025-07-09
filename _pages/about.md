@@ -10,14 +10,14 @@ redirect_from:
 <figure style="width: 40%;margin-bottom: 0px;margin-top: 0px"> <img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8446.jpg" alt=""> </figure>  
 **About**
 <span style="font-size:90%">  
-*I'm a research scientist at NXN Labs, where I'm developing large-scale generative foundation models for fashion imagery. My research interest lies in image/video generation and 3D computer vision, with the broader goal of modeling and interacting with the visual world. Prior to NXN Labs, I was at Innerverz AI, focusing on video diffusion models. I hold a PhD (as well as a B.S. and M.S.) from Korea University, advised by Prof. Hanseok Ko.*  
+*I'm a research scientist at NXN Labs, where I'm developing large-scale generative foundation models for fashion imagery. My research interest lies in image/video generation and 3D computer vision, with the broader goal of modeling and interacting with the visual world. Prior to NXN Labs, I was at Innerverz AI, focusing on video diffusion models. I earned my PhD from Korea University, advised by Prof. Hanseok Ko. I also complete my B.S and M.S degrees in Electrical Engineering from Korea University.*  
 </span>  
 <span style="font-size:90%">    
 [[Google Scholar](https://scholar.google.co.kr/citations?user=OokxUB4AAAAJ)]  [[Github](https://github.com/jgkwak95)]  [[CV]({{ site.url }}{{ site.baseurl }}/files/CV_jgkwak.pdf)]  
 </span>
 ### News 
 <span style="font-size:80%">   
-**[Jul. 2025] I will start a postdoctoral position at the University of British Columbia (UBC), working with Prof.<a href="https://www.cs.ubc.ca/~kmyi/">Kwang Moo Yi</a>.**     
+**[Jul. 2025] In September, I will start a postdoctoral fellow position at the University of British Columbia (UBC), working with Prof. <a href="https://www.cs.ubc.ca/~kmyi/">Kwang Moo Yi</a>.**     
 **[Jun. 2025] I've been recognized as an <a href="https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer">Outstanding Reviewer</a> at CVPR 2025 (711/12,593 reviewers)**   
 **[May 2025] One paper has been accepted to CVPRW 2025.**   
 **[Dec. 2024] I've joined <a href="https://nxn.ai/">NXN Labs</a> as an AI researcher, focusing on visual generative/editing models.**    
@@ -27,7 +27,7 @@ redirect_from:
 **[Jan. 2024] One paper has been accepted to <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.**  
 **[Jan. 2024] I've joined  <a href="https://innerverz.io/">Innerverz AI</a> as an AI/ML researcher, focusing on video diffusion models.**  
 **[Dec. 2023] I've successfully defended my thesis, "Towards Controllable and Interpretable Generative Neural Rendering".**  
-**[Dec. 2023] I completed a 6-month visit to the University of British Columbia (UBC) as a PhD visiting student in the Computer Vision Lab, supervised by Prof.<a href="https://www.cs.ubc.ca/~kmyi/">Kwang Moo Yi</a>.**  
+**[Dec. 2023] I completed a 6-month visit to the University of British Columbia (UBC) as a PhD visiting student in the Computer Vision Lab, supervised by Prof. <a href="https://www.cs.ubc.ca/~kmyi/">Kwang Moo Yi</a>.**  
 </span>
 
 Selected Publications
