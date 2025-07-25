@@ -1,1 +1,1 @@
-# jgkwak95.github.io
+This is the source code to Jeong-gi Kwak's public academic website: https://jgkwak95.github.io/.
