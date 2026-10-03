@@ -179,16 +179,8 @@ td.pub-img {
   vertical-align: middle !important;
 }
 
-td.pub-img {
-  height: 100px;
-}
-
 td.pub-img img {
   display: inline-block;
-  width: auto;
-  height: auto;
-  max-width: 180px;
-  max-height: 100px;
 }
 
 
