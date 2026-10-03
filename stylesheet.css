@@ -166,6 +166,10 @@ tr.publication-row td {
   padding: 10px 0;  
 }
 
+tr.pub-spaced td {
+  padding: 18px 0;
+}
+
 td img {
   display: block; 
 }
@@ -175,8 +179,16 @@ td.pub-img {
   vertical-align: middle !important;
 }
 
+td.pub-img {
+  height: 100px;
+}
+
 td.pub-img img {
-  display: inline-block; 
+  display: inline-block;
+  width: auto;
+  height: auto;
+  max-width: 180px;
+  max-height: 100px;
 }
 
 
