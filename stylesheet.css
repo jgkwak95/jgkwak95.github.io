@@ -249,3 +249,8 @@ td.pub-img img {
   font-size: 0.9em;   
   color: red;         
 }
+/* News: older items scroll inside the list */
+#news-list {
+  overflow-y: auto;
+  position: relative;
+}
